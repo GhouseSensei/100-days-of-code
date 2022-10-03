@@ -11,8 +11,6 @@
 ## If you've decided to join:
 
 0.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-1.  Follow [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away) & [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-
 
 ## Want to change other habits?
 
