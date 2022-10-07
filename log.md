@@ -15,6 +15,22 @@
 **Thoughts:** No thots.
 
 
+
+## Day 1: October 6, 2022 
+
+**Today's Progress**:- 
+
+• Solved more Hackerrank Java problems.
+
+• Got 4star Java badge :v
+
+• Used 5hackos to unlock a test case, was worth it.
+
+• Figured out that have to study more before moving forward :]
+
+**Thoughts:** No thots.
+
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
