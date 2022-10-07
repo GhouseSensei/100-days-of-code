@@ -16,7 +16,7 @@
 
 
 
-## Day 1: October 6, 2022 
+## Day 2: October 7, 2022 
 
 **Today's Progress**:- 
 
