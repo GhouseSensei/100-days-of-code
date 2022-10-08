@@ -31,6 +31,24 @@
 **Thoughts:** No thots.
 
 
+
+## Day 3: October 8, 2022 
+
+**Today's Progress**:- 
+
+• Solved more Hackerrank Java problems.
+
+• Got 5star Java badge :D
+
+• Played around with calendar class.
+
+• Failed attempt to learn regex.
+
+• Completed recursion theory.
+
+**Thoughts:** No thots.
+
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
