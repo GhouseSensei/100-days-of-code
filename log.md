@@ -49,6 +49,18 @@
 **Thoughts:** No thots.
 
 
+## Day 4: October 9, 2022 
+
+**Today's Progress**:- 
+
+• Solved more Hackerrank Java problems.
+
+• Leanrt how to use RegEx.
+
+• Solved the question which was breaking me down yesterday.
+
+**Thoughts:** No thots.
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
