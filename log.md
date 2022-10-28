@@ -49,6 +49,7 @@
 **Thoughts:** No thots.
 
 
+
 ## Day 4: October 9, 2022 
 
 **Today's Progress**:- 
@@ -61,6 +62,101 @@
 
 **Thoughts:** No thots.
 
+
+
+## Day 5: October 10, 2022 
+
+**Today's Progress**:- 
+
+• Solved more Hackerrank Java problems.
+
+• Revised 2D Arrays + solved problems on it.
+
+• Revised ArrayList + Learnt 2D ArrayList.
+
+• Learnt Exception Handling.
+
+**Thoughts:** No thots.
+
+
+
+## Day 6: October 11, 2022 
+
+**Today's Progress**:- 
+
+• Revised Recursion.
+
+• Solved Questions on that.
+
+• Was stuck on a question(Tower of Hanoi).
+
+**Thoughts:** No thots.
+
+
+
+## Day 7: October 12, 2022 
+
+**Today's Progress**:- 
+
+• Solved Tower of Hanoi.
+
+• Started learning divide and conquer algorithm.
+
+• Tried merge sort.
+
+**Thoughts:** No thots.
+
+
+
+## Day 8: October 13, 2022 
+
+**Today's Progress**:- 
+
+• Divide and Conquer algorithmn continuation.
+
+• Completed merge sort.
+
+• Decided to roll back to basics + do a small project.
+
+**Thoughts:** No thots.
+
+
+
+## October 14, 2022 
+
+**Today's Progress**:- 
+
+• -Fever Break-.
+
+**Thoughts:** No thots.
+
+
+
+## Day 9: October 15, 2022 
+
+**Today's Progress**:- 
+
+• Solved a question given by my friend [got relieved from tiredness of fever because of that].
+
+• Started Learning Java AWT.
+
+• Revised some basic syntaxes.
+
+**Thoughts:** No thots.
+
+
+
+## Day 10: October 16, 2022 
+
+**Today's Progress**:- 
+
+• Continued Java AWT.
+
+• Learnt how to add functions to button click.
+
+• Made a basic calculator with that.
+
+**Thoughts:** No thots.
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
