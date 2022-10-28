@@ -157,6 +157,174 @@
 • Made a basic calculator with that.
 
 **Thoughts:** No thots.
+
+
+
+## Day 11: October 17, 2022 
+
+**Today's Progress**:- 
+
+• Continued Java AWT.
+
+• Learnt about various AWT event classes.
+
+• Learnt about AWT event listeners.
+
+• Tried to give better UI for the calculator, Failed.
+
+**Thoughts:** No thots.
+
+
+## Day 12: October 18, 2022 
+
+**Today's Progress**:- 
+
+• Continuing Java AWT.
+
+• Finally gave decent UI to the calculator.
+
+• Functions arent completed, will do it tomorrow.
+
+**Thoughts:** No thots.
+
+
+
+
+## Day 13: October 19, 2022 
+
+**Today's Progress**:- 
+
+• Continuing Java AWT.
+
+• Completed Calculator functions too.
+
+• (Not yet done with AWT, lot left to do).
+
+**Thoughts:** No thots.
+
+
+
+## Day 14: October 20, 2022 
+
+**Today's Progress**:- 
+
+• Went back to Hackerrank.
+
+• Solved a few questions.
+
+• Decided to try out Java and SQL connection.
+
+**Thoughts:** No thots.
+
+
+
+## Day 15: October 21, 2022 
+
+**Today's Progress**:- 
+
+• Completed the last lecture of Java AWT.
+
+• As planned yesterday, started with Java and SQL connection.
+
+**Thoughts:** No thots.
+
+
+
+## Day 16: October 22, 2022 
+
+**Today's Progress**:- 
+
+• Continuing Java with SQL(JDBC).
+
+• MySQL randomly messed up in between, been trying to get it right.
+
+**Thoughts:** No thots.
+
+
+
+
+## Day 17: October 23, 2022 
+
+**Today's Progress**:- 
+
+• Fixed MySQL issue.
+
+• New issue acquired: java.lang.ClassNotFoundException: com.mysql.cj.jdbc.Driver 
+(╥﹏╥)
+
+• Basically another day without any progress in jdbc. (thanks to the issues)
+
+**Thoughts:** No thots.
+
+
+
+## Day 18: October 24, 2022 
+
+**Today's Progress**:- 
+
+• Fixed yesterday's issue and new issue which was randomly generated today( ClassNotFoundException and SqlException No Suitable Driver found for jdbc).
+
+• Hopefully can make some progress in jdbc tomorrow finally.
+
+**Thoughts:** No thots.
+
+
+
+
+## Day 19: October 25, 2022 
+
+**Today's Progress**:- 
+
+• Studied more about jdbc.
+
+• Started working on a project (billing system).
+
+• Created table with item names and id for the same.
+
+**Thoughts:** No thots.
+
+
+
+
+## Day 20: October 26, 2022 
+
+**Today's Progress**:- 
+
+• Did some work on billing system project.
+
+• Got a better interface idea.
+
+• Coded the basic part of the interface.
+
+**Thoughts:** No thots.
+
+
+
+## Day 21: October 27, 2022 
+
+**Today's Progress**:- 
+
+• Did some work on billing system project.
+
+• Learnt how to create pop up menu in Java AWT.
+
+• Added some pop up menu in the project .
+
+**Thoughts:** No thots.
+
+
+
+
+## Day 22: October 28, 2022 
+
+**Today's Progress**:- 
+
+• Gave better interface to the project using Panel method (photo in the next slide).
+
+=> Note to self: Figured out that Java swing is a lot better than AWT. Though will complete this project in AWT, decided to learn swing whenever I  exclusively start  
+app devolopement :v
+
+**Thoughts:** No thots.
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
